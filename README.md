@@ -50,7 +50,7 @@ docker-compose up --build
 This will:
 
     Build the Docker images for both the backend (FastAPI) and frontend (React) if they don't already exist.
-    Start the containers according to the configurations specified in docker-compose.yml.
+    Start the Containers according to the configurations specified in docker-compose.yml.
 
 3. Access the Application
 
